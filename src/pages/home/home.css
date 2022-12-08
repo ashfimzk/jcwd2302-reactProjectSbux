@@ -1,0 +1,18 @@
+.bikinfix{
+    height: 100vh !important;
+    background-color: aqua !important;
+    display: flex;
+    justify-content: center !important;
+    align-items: center !important;
+    position: fixed !important;
+    
+}
+
+.section1{
+    height: 400px !important;
+   
+}
+
+.sectionright{
+    box-shadow: 3px 0 5px -5px #333 !important;
+}

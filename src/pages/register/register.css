@@ -1,0 +1,66 @@
+.header{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 1px 5px rgb(0 0 0/0.3);
+}
+
+
+.findstore{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbarleft{
+
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.navbarright{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 30%;
+}
+
+#logonav{
+    height: 50px;
+    width: 50px;
+}
+
+.adudu{
+    /* background-color: black; */
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+.form{
+    box-shadow: 0 10px 20px rgb(0 0 0/0.2) !important;
+ 
+   margin-top: 50px;
+    /* padding: 100px; */
+    width: 500px;
+    height: 400px;
+}
+
+/* 
+.nganu{
+    box-shadow: 0 10px 20px rgb(0 0 0/0.2);
+    width: 500px;
+    height: 400px;
+} */
+
+.footercard{
+    width: 100%;
+
+    display: flex;
+    justify-content: flex-end;
+}
